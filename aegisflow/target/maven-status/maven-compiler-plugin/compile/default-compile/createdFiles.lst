@@ -1,0 +1,5 @@
+com\aegisflow\dto\LedgerReceipt.class
+com\aegisflow\AegisFlowApplication.class
+com\aegisflow\util\InMemoryHashMapLookup.class
+com\aegisflow\dto\LoanApplicationDto.class
+com\aegisflow\dto\TransferRequest.class

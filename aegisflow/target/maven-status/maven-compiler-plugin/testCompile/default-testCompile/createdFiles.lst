@@ -1,0 +1,3 @@
+com\aegisflow\AegisFlowApplicationTests.class
+com\aegisflow\dto\DtoRecordsTest.class
+com\aegisflow\util\InMemoryHashMapLookupTest.class
